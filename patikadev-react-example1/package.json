@@ -1,0 +1,15 @@
+{
+  "name": "patika-react-ex1",
+  "version": "1.0.0",
+  "description": "patika.dev react homework1",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Serhat Çolak",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
